@@ -1,7 +1,19 @@
 {
-	"example": {
-		"path": "/blocks/example/example.doc",
-		"description": "Example block"
-	}
+  "blocks": [
+    {
+      "name": "columns",
+      "title": "Columns",
+      "path": "/blocks/columns/columns.js"
+    },
+    {
+      "name": "cards",
+      "title": "Cards",
+      "path": "/blocks/cards/cards.js"
+    },
+    {
+      "name": "hero",
+      "title": "Hero",
+      "path": "/blocks/hero/hero.js"
+    }
+  ]
 }
-
