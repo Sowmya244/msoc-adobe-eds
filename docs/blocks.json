@@ -1,2 +1,7 @@
-{}
+{
+	"example": {
+		"path": "/blocks/example/example.doc",
+		"description": "Example block"
+	}
+}
 
