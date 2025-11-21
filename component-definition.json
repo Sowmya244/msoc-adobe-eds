@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "title": "Default Content",
+      "id": "default",
+      "components": [
+        { "title": "Text", "id": "text" },
+        { "title": "Title", "id": "title" },
+        { "title": "Image", "id": "image" },
+        { "title": "Button", "id": "button" }
+      ]
+    },
+    {
+      "title": "Blocks",
+      "id": "blocks",
+      "components": [
+        { "title": "Columns", "id": "columns" },
+        { "title": "Cards", "id": "cards" },
+        { "title": "Hero", "id": "hero" }
+      ]
+    }
+  ]
+}
