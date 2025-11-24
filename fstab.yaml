@@ -1,2 +1,3 @@
 mountpoints:
-  /: "https://main--msoc-adobe-eds--sowmya244.aem.live"
+  /: "https:/content.da.live/msoc-adobe-eds/sowmya244/"
+  type: markup
