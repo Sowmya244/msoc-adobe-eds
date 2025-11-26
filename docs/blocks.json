@@ -1,0 +1,44 @@
+{
+  "blocks": [
+    {
+      "name": "accordion",
+      "title": "Accordion",
+      "path": "/blocks/accordion/accordion.js"
+    },
+    {
+      "name": "cards",
+      "title": "Cards",
+      "path": "/blocks/cards/cards.js"
+    },
+    {
+      "name": "columns",
+      "title": "Columns",
+      "path": "/blocks/columns/columns.js"
+    },
+    {
+      "name": "example",
+      "title": "Example",
+      "path": "/blocks/example/example.js"
+    },
+    {
+      "name": "footer",
+      "title": "Footer",
+      "path": "/blocks/footer/footer.js"
+    },
+    {
+      "name": "fragment",
+      "title": "Fragment",
+      "path": "/blocks/fragment/fragment.js"
+    },
+    {
+      "name": "header",
+      "title": "Header",
+      "path": "/blocks/header/header.js"
+    },
+    {
+      "name": "hero",
+      "title": "Hero",
+      "path": "/blocks/hero/hero.js"
+    }
+  ]
+}

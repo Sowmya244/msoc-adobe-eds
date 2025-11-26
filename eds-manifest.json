@@ -1,0 +1,13 @@
+{
+  "name": "msoc-adobe-eds",
+  "blocks": [
+    "accordion",
+    "cards",
+    "columns",
+    "example",
+    "footer",
+    "fragment",
+    "header",
+    "hero"
+  ]
+}
